@@ -1,0 +1,33 @@
+PB-DIAG-DESIS
+
+Para instalar el proyecto se recomienda utilizar XAMPP 8.2.0 
+
+Adjunto el enlace para descargar el programa 
+    https://www.apachefriends.org/download.html 
+
+Clonar o copiar carpeta pb-diag-desis en las siguientes rutas:
+    Windows: C:/xampp/htdocs 
+    Linux: /opt/lampp/htdocs/
+
+Por ultimo ejecutar el archivo script.sql en base de datos. 
+
+
+Testeado en: 
+
+    Database server
+    Server: Localhost via UNIX socket
+    Server type: MariaDB
+    Server connection: SSL is not being used Documentation
+    Server version: 10.4.27-MariaDB - Source distribution
+    Protocol version: 10
+    User: root@localhost
+    Server charset: UTF-8 Unicode (utf8mb4)
+
+    Web server
+    Apache/2.4.54 (Unix) OpenSSL/1.1.1s PHP/8.2.0 mod_perl/2.0.12 Perl/v5.34.1
+    Database client version: libmysql - mysqlnd 8.2.0
+    PHP extension: mysqli Documentation curl Documentation mbstring Documentation
+    PHP version: 8.2.0
+
+    phpMyAdmin
+    Version information: 5.2.0, latest stable version: 5.2.1
